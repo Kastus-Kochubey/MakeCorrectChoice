@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MakeCorrectChoice</string>
+    <string name="rem_time_text">rem time</string>
+    <string name="task_text">task</string>
+    <string name="stat_text">cor/unc</string>
+</resources>
